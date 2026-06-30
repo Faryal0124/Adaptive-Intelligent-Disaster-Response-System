@@ -324,7 +324,6 @@ Action: Replanning A* route from current position
 - scikit-learn
 - NumPy
 - Matplotlib
-- Tkinter
 
 ---
 
